@@ -30,7 +30,7 @@
     "axios": "0.18.0",
     "babel-preset-stage-1": "6.1.18",
     "css-modules-require-hook": "4.2.3",
-    "lodash": "4.17.5",
+    "lodash": "4.17.11",
     "npm": "6.5.0",
     "react": "0.14.3",
     "react-dom": "0.14.3",
